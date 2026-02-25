@@ -1,0 +1,6 @@
+so now after observing the charts, i can see that ,
+that the corelation index betn hdfc and nifty 50 is highest(well hdfc is in nifty 50 so)
+and as for the other, TCS is least correalted. 
+whereas if we leave the nifty 50 betn TCS and Reiance its 27% and Reliance HDFC is 40%
+for the other graphs, nifty has been in bull mode, except the dip in covid
+same goes for the other two, minor variations exist but its trending upwards. 

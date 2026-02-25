@@ -6,8 +6,9 @@ import numpy as np
 from pathlib import Path
 #so this is we importing everything we need
 
-DATA_RAW = Path("data/raw") #us storing raw data
-DATA_PROCESSED = Path("data/processed") #us storing processed data
+PROJECT_ROOT = Path(__file__).resolve().parent.parent  # always points to project root
+DATA_RAW = PROJECT_ROOT / "data" / "raw"         #us storing raw data
+DATA_PROCESSED = PROJECT_ROOT / "data" / "processed" #us storing processed data
 
 DATA_RAW.mkdir(parents=True, exist_ok = True)
 DATA_PROCESSED.mkdir(parents=True, exist_ok = True)
